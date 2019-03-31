@@ -1,0 +1,17 @@
+{
+  "name": "beginning_function_javascript",
+  "version": "1.0.0",
+  "description": "book",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "hank <332124614@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^6.0.2",
+    "should": "^13.2.3",
+    "should-sinon": "0.0.6",
+    "sinon": "^7.3.1"
+  }
+}
